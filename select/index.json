@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I'll Be There For You",
+  "base_artist": "Bon Jovi",
+  "createdAt": "2026-03-13T00:33:35.703321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Melvv",
+      "has_synced": true,
+      "path": "select/01_I'll_Be_There_for_You_Melvv.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "蘇醒",
+      "has_synced": true,
+      "path": "select/02_I'll_Be_There_For_You_蘇醒.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Rembrandts",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_There_for_You_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I’LL BE THERE FOR YOU",
+      "artist": "ICHIKO",
+      "has_synced": true,
+      "path": "select/04_I’LL_BE_THERE_FOR_YOU_ICHIKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll be there for you",
+      "artist": "bonjovi",
+      "has_synced": true,
+      "path": "select/05_I'll_be_there_for_you_bonjovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll be there for you",
+      "artist": "Rembrandts",
+      "has_synced": true,
+      "path": "select/06_I'll_be_there_for_you_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Rembrandts",
+      "has_synced": true,
+      "path": "select/07_I'll_Be_There_For_You_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ill Be There For You",
+      "artist": "RZA",
+      "has_synced": false,
+      "path": "select/08_Ill_Be_There_For_You_RZA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'LL BE THERE FOR YOU",
+      "artist": "ICHIKO",
+      "has_synced": true,
+      "path": "select/09_I'LL_BE_THERE_FOR_YOU_ICHIKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll be there for you",
+      "artist": "Rembrandts",
+      "has_synced": false,
+      "path": "select/10_I'll_be_there_for_you_Rembrandts.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/12_I'll_Be_There_for_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be there for You",
+      "artist": "The Rembrandts",
+      "has_synced": false,
+      "path": "select/14_I'll_Be_there_for_You_The_Rembrandts.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Be There for You",
+      "artist": "The Rembrandts",
+      "has_synced": true,
+      "path": "select/15_I'll_Be_There_for_You_The_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Rembrants",
+      "has_synced": true,
+      "path": "select/16_I'll_Be_There_For_You_Rembrants.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "The Rembrandts",
+      "has_synced": true,
+      "path": "select/17_I'll_Be_There_For_You_The_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/18_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/19_I'll_Be_There_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Be There for You",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Be_There_for_You_Bon_Jovi.txt"
+    }
+  ]
+}
